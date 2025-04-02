@@ -23,7 +23,7 @@ Generation Data Analytics Graduate 2025
 Generation Ghana (Jan 2025 - Apr 2025)
 
 ## Projects
-- GenTech HR Analysis
+- GenTech HR Analysis: https://github.com/Midge-commits/GenTech-HR-Analysis
 
 ## Contacts
 LinkedIn: www.linkedin.com/in/mildred-tseh-971290230
