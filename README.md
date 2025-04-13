@@ -22,6 +22,8 @@ Kwame Nkrumah University of Science and Technology
 Generation Data Analytics Graduate 2025 
 Generation Ghana (Jan 2025 - Apr 2025)
 
+Accenture North America Data Analytics and Visualization Job Simulation on Forage  (April 2025)
+
 ## Projects
 - GenTech HR Analysis: https://github.com/Midge-commits/GenTech-HR-Analysis
 - India-AgriMetrics Analysis: https://github.com/Midge-commits/India-AgriMetrics-Analysis
