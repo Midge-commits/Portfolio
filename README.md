@@ -24,6 +24,8 @@ Generation Ghana (Jan 2025 - Apr 2025)
 
 ## Projects
 - GenTech HR Analysis: https://github.com/Midge-commits/GenTech-HR-Analysis
+- India-AgriMetrics Analysis: https://github.com/Midge-commits/India-AgriMetrics-Analysis
+- MedLab Diagnostics: https://github.com/Midge-commits/MedLab-Diagnostics
 
 ## Contacts
 LinkedIn: www.linkedin.com/in/mildred-tseh-971290230
